@@ -5,6 +5,7 @@ date created: 2021-07-20
 ---
 This is my launchpad and homebase. My personal North Star. That's here. That's home.
 
+
 ### Main Maps
 - Inner-led Sense-making
     - 01 - [[Mindsets MOC]]

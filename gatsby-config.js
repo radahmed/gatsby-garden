@@ -38,7 +38,14 @@ module.exports = {
       options: {
         name: `notes`,
         path: `${__dirname}/_notes/`,
-        ignore: [`**/_notes/bins`],
+        ignore: [
+          "**/.git/**",
+          "**/.github/**",
+          "**/.vscode/**",
+          "**/.obsidian/**",
+          "**/.cache/**",
+          "**/_notes/bins",
+        ],
       },
     },
     {

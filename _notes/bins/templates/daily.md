@@ -1,7 +1,7 @@
 ---
 title: <%tp.file.title%>
 aliases: <%tp.date.now("YYYY-MM-DD")%>
-tags: [journal, daily]
+tags: [journal, daily, timeline]
 date created:<%tp.date.now("MMMM DD, YYYY")%>
 ---
 
