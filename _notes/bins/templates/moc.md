@@ -2,9 +2,9 @@
 title: <%tp.file.title%>
 tags: [MOC]
 aliases: 
-date created: <%tp.date.now("MMMM DD, YYYY")%>
+date created: <%tp.date.now("MMMM Do, yyyy")%>
 ---
-<< [[Home MOC]]
+<< [[../../pages/Home MOC]]
 
 ---
 

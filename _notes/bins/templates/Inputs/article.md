@@ -2,7 +2,7 @@
 title: <%tp.file.title%>
 tags: [📥️/📰️, article]
 aliases:
-date created:<%tp.date.now("MMMM DD, YYYY")%>
+date created:<%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 - `Title:` [[<%tp.file.title%>]]
@@ -13,7 +13,7 @@ date created:<%tp.date.now("MMMM DD, YYYY")%>
 - `Link:` 
 - `Reference:` 
 - `Publish Date:` 
-- `Reviewed Date:` [[<%tp.date.now("MMMM DD, YYYY")%>]]
+- `Reviewed Date:` [[<%tp.date.now("MMMM Do, yyyy")%>]]
 
 ---
 

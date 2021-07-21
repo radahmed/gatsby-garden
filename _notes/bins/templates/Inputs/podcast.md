@@ -2,7 +2,7 @@
 title: <%tp.file.title%>
 tags: [📥️/🎧️, podcast]
 aliases:
-date created:<%tp.date.now("MMMM DD, YYYY")%>
+date created: <%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 - `Type:` [[%]]
@@ -13,7 +13,7 @@ date created:<%tp.date.now("MMMM DD, YYYY")%>
 	- `Host:` 
 	- `Guest:` 
 - `Publish Date:` 
-- `Reviewed Date:` [[<%tp.date.now("MMMM DD, YYYY")%>]]
+- `Reviewed Date:` [[<%tp.date.now("MMMM Do, yyyy")%>]]
 - `Reference:` 
 
 ---

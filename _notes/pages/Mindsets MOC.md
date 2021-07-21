@@ -1,4 +1,5 @@
 ---
+title: Mindsets MOC
 tags: [MOC, on/mind/training]
 aliases: 
 date created: 2021-07-20
@@ -41,7 +42,7 @@ date created: 2021-07-20
 ---
 ### Others
 - [[FlowCreation MOC]]
-- [[Habits MOC]]
+- [[pages/Habits MOC]]
 
 ---
 ### Definitions

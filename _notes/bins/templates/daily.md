@@ -2,13 +2,13 @@
 title: <%tp.file.title%>
 aliases: <%tp.date.now("YYYY-MM-DD")%>
 tags: [journal, daily, timeline]
-date created:<%tp.date.now("MMMM DD, YYYY")%>
+date created: <%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 ## On This Day...
 ---
 
-[[<%tp.date.now("MMMM DD, YYYY", -1)%>]] <== <button class="date_button_today">Today</button> ==> [[<%tp.date.now("MMMM DD, YYYY", 1)%>]]
+[[<%tp.date.now("MMMM Do, yyyy", -1)%>]] <== <button class="date_button_today">Today</button> ==> [[<%tp.date.now("MMMM Do, yyyy", 1)%>]]
 
 #### Hey Ali, Whats On Your Mind? 
 

@@ -1,4 +1,5 @@
 ---
+title: Goals MOC
 tags: [MOC, my/goal, my/planning, my/review, my/win]
 aliases: 
 date created: 2021-07-20

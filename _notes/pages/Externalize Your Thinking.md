@@ -1,4 +1,5 @@
 ---
+title: Externalize Your Thinking
 tags:
  - zettelkasten
  - learning

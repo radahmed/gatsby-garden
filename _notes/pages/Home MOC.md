@@ -1,4 +1,5 @@
 ---
+title: Home MOC
 tags: [MOC]
 aliases:
 date created: 2021-07-20
@@ -18,7 +19,7 @@ This is my launchpad and homebase. My personal North Star. That's here. That's h
 	- 06 - [[People MOC]]
 - Personal Management
 	- 07 - [[Health MOC]]
-	- 08 - [[Goals MOC]]
+	- 08 - [[pages/Goals MOC]]
 	- 09 - [[Projects MOC]]
 	- 10 - [[PKM MOC]]
 

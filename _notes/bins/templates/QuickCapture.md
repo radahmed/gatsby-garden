@@ -13,7 +13,7 @@ let folderOverride = '';
 //Add a header for each day to nest the quick capture notes under (only works when firstOrLastLine = 'first')
 let bAddHeader = true;
 
-let curDateFormat = '[' + '[' + tp.date.now("MMMM DD, YYYY") + ']]';
+let curDateFormat = '[' + '[' + tp.date.now("MMMM Do, yyyy") + ']]';
 let finalTimestamp = curDateFormat;
 let curTimeFormat = tp.date.now("hh:mm A");
 if(curTimeFormat != ''){finalTimestamp = finalTimestamp + ' ' + curTimeFormat}

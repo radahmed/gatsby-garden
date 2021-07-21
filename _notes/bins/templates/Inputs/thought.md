@@ -2,13 +2,13 @@
 title: <%tp.file.title%>
 tags: [📥️/💭️, thought]
 aliases:
-date created:<%tp.date.now("MMMM DD, YYYY")%>
+date created: <%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 - `Title:` [[<%tp.file.title%>]]
 - `Type:` [[=]]
 - `Tags:` 
-- `Formation Date:` [[<%tp.date.now("MMMM DD, YYYY")%>]]
+- `Formation Date:` [[<%tp.date.now("MMMM Do, yyyy")%>]]
 
 ---
 
