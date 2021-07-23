@@ -36,6 +36,7 @@ Here's an assembly of the notes in some sort of formalized structure. I have con
 	- [[The mechanism for breaking through development plateaus]]
 
 ### Example of Habit Design
+- [[Workout plan]] 
 - [[Charting out habit cycles in my life circa 2013]]
 
 ### Important Habits
