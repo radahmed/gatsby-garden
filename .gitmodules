@@ -1,0 +1,4 @@
+[submodule "code-notes"]
+	path = code-notes
+	url = https://github.com/zubayrrr/code-notes
+	branch = main
