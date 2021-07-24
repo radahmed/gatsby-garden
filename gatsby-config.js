@@ -56,6 +56,8 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          "gatsby-remark-mermaid",
+          "gatsby-remark-prismjs",
           {
             resolve: `gatsby-remark-wiki-links`,
             options: {
