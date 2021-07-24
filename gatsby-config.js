@@ -5,7 +5,7 @@
 module.exports = {
   // pathPrefix: `/notes`, // If your Digital Garden is not published at the root of your website, use this.
   siteMetadata: {
-    title: `Gatsby Garden`,
+    title: `Code notes`,
     description: `A Digital Garden Tended by Gatsby`,
 
     // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.
@@ -36,18 +36,19 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `notes`,
-        path: `${__dirname}/_notes/`,
+        name: `code-notes`,
+        path: `${__dirname}/code-notes/`,
         ignore: [
           "**/.git/**",
           "**/.github/**",
           "**/.vscode/**",
           "**/.obsidian/**",
           "**/.cache/**",
-          "**/_notes/bins",
           "**/.stfolder/**",
           "**/.stversions/**",
           "**/.trash/**",
+          "**/_notes/**",
+          "**/code-notes/bins/**",
         ],
       },
     },
@@ -60,6 +61,27 @@ module.exports = {
             options: {
               slugify: `${__dirname}/src/utils/make-slug.js`,
               stripBrackets: true,
+            },
+          },
+          {
+            resolve: "gatsby-remark-mermaid",
+            options: {
+              language: "mermaid",
+              theme: "default",
+              viewport: {
+                width: 200,
+                height: 200,
+              },
+              mermaidOptions: {
+                themeCSS: ".node rect { fill: cornflowerblue; }",
+              },
+            },
+          },
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              gistDefaultCssInclude: true,
+              gistCssPreload: true,
             },
           },
         ],
