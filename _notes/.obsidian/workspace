@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code-notes/Code notes.md",
+            "file": "journals/July 25th, 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code-notes/Code notes.md",
+                "file": "journals/July 25th, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6b3385e043ae771b",
   "lastOpenFiles": [
+    "journals/July 25th, 2021.md",
     "code-notes/Main MOC.md",
     "hypothesis config.md",
     "bins/templates/hypothesis config.md.md",
@@ -96,7 +97,6 @@
     "pages/Mindsets MOC.md",
     "bins/hypothesis config.md",
     "pages/Workout plan.md",
-    "pages/hypothesis config.md",
-    "bins/templates/daily.md"
+    "pages/hypothesis config.md"
   ]
 }
