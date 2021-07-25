@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc6069d7df767ae",
+        "id": "6b3385e043ae771b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bins/templates/daily.md",
+            "file": "code-notes/Code notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bins/templates/daily.md",
+                "file": "code-notes/Code notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dc6069d7df767ae",
+  "active": "6b3385e043ae771b",
   "lastOpenFiles": [
-    "bins/templates/daily.md",
-    "bins/templates/Inputs/youtube.md",
-    "bins/templates/Inputs/tweet.md",
-    "bins/templates/Inputs/thought.md",
-    "bins/templates/Inputs/podcast.md",
-    "bins/templates/Inputs/person.md",
-    "bins/templates/Inputs/permanent note.md",
-    "bins/templates/Inputs/paper.md",
-    "bins/templates/Inputs/article.md",
-    "bins/templates/Inputs/book.md"
+    "code-notes/Main MOC.md",
+    "hypothesis config.md",
+    "bins/templates/hypothesis config.md.md",
+    "bins/templates/hypothesis.md",
+    "bins/templates/Untitled.md",
+    "pages/Mindsets MOC.md",
+    "bins/hypothesis config.md",
+    "pages/Workout plan.md",
+    "pages/hypothesis config.md",
+    "bins/templates/daily.md"
   ]
 }
