@@ -1,10 +1,10 @@
 module.exports = {
   // pathPrefix: `/notes`, // If your Digital Garden is not published at the root of your website, use this.
   siteMetadata: {
-    title: `Vidya`,
-    description: `A digital garden powered by Obsidian and Gatsby`,
+    title: `Ahmed's second brain`,
+    description: `Here lives my second brain, my personal wiki of everything I've ever learned.`,
 
-    siteUrl: `https://wiki.zubayrali.in/`, // URL at which your site will be published. This should be present if you want RSS feed.
+   // siteUrl: `https://wiki.zubayrali.in/`, // URL at which your site will be published. This should be present if you want RSS feed.
     // headerMenu: [ // Top Navbar items
     //   {type: 'page', item: '', title: 'Home'}, // Type can be 'page', 'note', 'tag', or 'link'
     //   {type: 'page', item: 'sitemap', title: 'Sitemap'},
@@ -25,9 +25,6 @@ module.exports = {
     // ]
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-feed`,
-    },
     "gatsby-plugin-dark-mode",
     {
       resolve: `gatsby-source-filesystem`,

@@ -2,7 +2,7 @@
 title: <%tp.file.title%>
 tags: [👥️/👤️, person, people]
 aliases: 
-date: <%tp.date.now("MMMM Do, yyyy")%>
+date created: <%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 - `Type:` [[@]]

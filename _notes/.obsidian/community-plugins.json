@@ -1,8 +1,6 @@
 [
-  "obsidian-emoji-toolbar",
+  "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-gist",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-activity-history",
-  "templater-obsidian"
+  "obsidian-emoji-toolbar",
+  "obsidian-activity-history"
 ]
