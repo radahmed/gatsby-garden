@@ -2,7 +2,7 @@
 title: <%tp.file.title%>
 tags: [📥️/🎥️, video, youtube]
 aliases:
-date created: <%tp.date.now("MMMM Do, yyyy")%>
+date: <%tp.date.now("MMMM Do, yyyy")%>
 ---
 
 - `Title:` [[<%tp.file.title%>]]

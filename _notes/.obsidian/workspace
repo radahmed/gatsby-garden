@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4dbfe047ac18a1d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc6069d7df767ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bins/templates/daily.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6137ae0c39c333c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ccc8089dd032665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817e35f7afb6ea10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd708729bcfdc8fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be4f4a87425302f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e11a9ed5141162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b6bd7d4f23ccbc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bins/templates/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6dc6069d7df767ae",
+  "lastOpenFiles": [
+    "bins/templates/daily.md",
+    "bins/templates/Inputs/youtube.md",
+    "bins/templates/Inputs/tweet.md",
+    "bins/templates/Inputs/thought.md",
+    "bins/templates/Inputs/podcast.md",
+    "bins/templates/Inputs/person.md",
+    "bins/templates/Inputs/permanent note.md",
+    "bins/templates/Inputs/paper.md",
+    "bins/templates/Inputs/article.md",
+    "bins/templates/Inputs/book.md"
+  ]
+}
