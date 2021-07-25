@@ -1,14 +1,10 @@
-/**
- * Configure your Gatsby site with this file.
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
 module.exports = {
   // pathPrefix: `/notes`, // If your Digital Garden is not published at the root of your website, use this.
   siteMetadata: {
-    title: `Gatsby Garden`,
-    description: `A Digital Garden Tended by Gatsby`,
+    title: `Vidya`,
+    description: `A digital garden powered by Obsidian and Gatsby`,
 
-    // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.
+    siteUrl: `https://wiki.zubayrali.in/`, // URL at which your site will be published. This should be present if you want RSS feed.
     // headerMenu: [ // Top Navbar items
     //   {type: 'page', item: '', title: 'Home'}, // Type can be 'page', 'note', 'tag', or 'link'
     //   {type: 'page', item: 'sitemap', title: 'Sitemap'},
@@ -29,9 +25,9 @@ module.exports = {
     // ]
   },
   plugins: [
-    // { // Enable this if you want to have an RSS Feed. The `siteMetadata.siteUrl` property should be present as well.
-    //   resolve: `gatsby-plugin-feed`
-    // },
+    {
+      resolve: `gatsby-plugin-feed`,
+    },
     "gatsby-plugin-dark-mode",
     {
       resolve: `gatsby-source-filesystem`,
@@ -57,6 +53,7 @@ module.exports = {
         plugins: [
           "gatsby-remark-mermaid",
           "gatsby-remark-prismjs",
+          "gatsby-plugin-offline",
           {
             resolve: `gatsby-remark-wiki-links`,
             options: {
